@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   template: `
     <!--The content below is only a placeholder and can be replaced.-->
     
-      <h1>
+      <h1 appHighlightDirective>
         Welcome to {{title}}!
       </h1>
       
